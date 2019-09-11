@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "stroke",
+      "createdBy": {"firstName": "Diane", "lastName":"Jewett"}
+    },
+    {
+      "id": "2",
+      "name": "behavior-heath",
+      "createdBy": {"firstName": "Diane", "lastName":"Jewett"}
+    },
+    {
+      "id": "3",
+      "name": "neonatal",
+      "createdBy": {"firstName": "Diane", "lastName":"Jewett"}
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
